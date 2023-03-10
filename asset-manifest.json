@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Moviesnow/static/css/main.334bdeb1.css",
-    "main.js": "/Moviesnow/static/js/main.bdf78501.js",
+    "main.js": "/Moviesnow/static/js/main.3493a449.js",
     "index.html": "/Moviesnow/index.html",
     "static/media/search.svg": "/Moviesnow/static/media/search.374dc34a202f33824c399a37082cabeb.svg",
     "main.334bdeb1.css.map": "/Moviesnow/static/css/main.334bdeb1.css.map",
-    "main.bdf78501.js.map": "/Moviesnow/static/js/main.bdf78501.js.map"
+    "main.3493a449.js.map": "/Moviesnow/static/js/main.3493a449.js.map"
   },
   "entrypoints": [
     "static/css/main.334bdeb1.css",
-    "static/js/main.bdf78501.js"
+    "static/js/main.3493a449.js"
   ]
 }
